@@ -11,6 +11,6 @@ This is a complete test case writing of a popular website <a href="https://www.p
 
 3.Bug Report
 
-4. Test Metrices
+4.Test Metrices
 
 ![Screenshot 2024-12-29 205134](https://github.com/user-attachments/assets/9e1d07f5-c193-4364-89b5-ec0a06c6e0cd)
